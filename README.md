@@ -9,3 +9,7 @@ Learned:
 - Deep RL (DQNs)
 - Policy Gradients
 - Lib: Pytorch, OpenAI Gym
+
+Project: 
+- DQN: Frozen Lake (Deep Lizard)
+- DQN: Mario (Pytorch.org)
